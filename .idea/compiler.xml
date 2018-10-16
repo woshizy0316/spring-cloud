@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="api-gateway_main" target="1.8" />
+      <module name="api-gateway_test" target="1.8" />
+      <module name="config-server_main" target="1.8" />
+      <module name="config-server_test" target="1.8" />
+      <module name="eureka_main" target="11" />
+      <module name="eureka_test" target="11" />
+      <module name="feign-consumer_main" target="1.8" />
+      <module name="feign-consumer_test" target="1.8" />
+      <module name="hello-server_main" target="1.8" />
+      <module name="hello-server_test" target="1.8" />
+      <module name="hystrix-dashboard_main" target="1.8" />
+      <module name="hystrix-dashboard_test" target="1.8" />
+      <module name="ribbon-consumer_main" target="1.8" />
+      <module name="ribbon-consumer_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
